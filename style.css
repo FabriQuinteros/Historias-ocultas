@@ -1,0 +1,21 @@
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('Community-header-background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+.c-white{
+    color:white;
+}
+
+.trans{
+    border-style: solid;
+    border-radius: 1%;
+}
+
+.card{
+    box-shadow: 2px 2px 2px 1px;
+}
